@@ -1,0 +1,6 @@
+<número de balcões a inicializar> <número de produtos no catálogo>
+<código de produto 1> <preço do produto> <duração de processamento de produto>
+.
+.
+.
+<código de produto n> <preço do produto> <duração de processamento de produto>

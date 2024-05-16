@@ -1,0 +1,6 @@
+[TS 0] Counter 0 open.
+[TS 0] Client 1 assigned to counter 0, processing will take 1.
+All clients have been assigned to a counter!
+[TS 1] Client 1 has finished processing. Total wait time: 1. Payment: 1.00€.
+All clients have been processed!
+Total sales: 1.00€.

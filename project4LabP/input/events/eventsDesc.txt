@@ -1,0 +1,2 @@
+<time of event> COUNTER
+<time of event> CLIENT <client code> <item1> ... <itemN>

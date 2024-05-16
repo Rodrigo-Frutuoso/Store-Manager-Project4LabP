@@ -1,0 +1,16 @@
+[TS 0] Counter 0 open.
+[TS 0] Counter 1 open.
+[TS 5] Client 1 assigned to counter 0, processing will take 10.
+[TS 5] Client 2 assigned to counter 1, processing will take 10.
+[TS 10] Client 3 assigned to counter 0, processing will take 5.
+[TS 10] Counter 2 open.
+[TS 10] Client 4 assigned to counter 2, processing will take 10.
+[TS 11] Client 5 assigned to counter 1, processing will take 15.
+All clients have been assigned to a counter!
+[TS 15] Client 1 has finished processing. Total wait time: 10. Payment: 10.00€.
+[TS 15] Client 2 has finished processing. Total wait time: 10. Payment: 100.00€.
+[TS 20] Client 3 has finished processing. Total wait time: 10. Payment: 50.00€.
+[TS 20] Client 4 has finished processing. Total wait time: 10. Payment: 100.00€.
+[TS 30] Client 5 has finished processing. Total wait time: 19. Payment: 150.00€.
+All clients have been processed!
+Total sales: 410.00€.
